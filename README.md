@@ -1,2 +1,2 @@
 # GithubProjektForMe
-TESTING
+Testing and training on Github commands.
